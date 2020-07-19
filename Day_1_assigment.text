@@ -1,0 +1,27 @@
+Q1. What all things does a block contain?
+Ans:
+1. Block number
+2. Transaction record
+3. Previous block key
+4. Mining key
+
+Q2. What is your understanding of Blockchain?
+ 
+Ans: Blockchain is a decentralized technology to maintain the information and data which are immutable in nature i.e. once the entries in the blockchain are made they can’t be tampered or modified. In simple words it is a way to store data digitally. By using blockchain we can avoid data duplication, data hacking, etc. Blockchain provides transparency for a data. 
+
+Q3. What is the core problem Block chain trying to solve?
+Ans:
+1. Security
+2. Decentralization
+3. Authentication
+
+Q4. What are the few features Block chain will give you?
+Ans:
+1. Immutable
+2. Tamper- proof
+3. Verifiable
+4. Unchangeable
+
+
+Q5. How can verifiability be achieved in a blockchain?
+Ans:- The copy of the data which is stored in one block is distributed to all other blocks, if the data is changed in any of the block the data can be made proper from the remaining blocks. So, the verifiability of the blockchain is achieved.
