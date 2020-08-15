@@ -1,4 +1,4 @@
-ragma solidity >=0.4.22 <0.7.0;
+pragma solidity >=0.4.22 <0.7.0;
 //Contract Addres 0x01431c55dd52ed649971f4704f573a53628b9c2a
 contract Data
 {
